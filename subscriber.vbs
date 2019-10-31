@@ -4,7 +4,7 @@ j = 0
 do
 WshShell.SendKeys("{TAB}")
 i = i + 1
-loop while i < 10
+loop while i < 11
 do
 WshShell.SendKeys("{ENTER}")
 j = j + 1
