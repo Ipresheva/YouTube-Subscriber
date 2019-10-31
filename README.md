@@ -1,3 +1,5 @@
+# IMPORTANT
+IMPORTANT: The example channel in the Batch file is PewDiePie. His channel contains a join button, so the first loop in the VBScript file contains one more iteration than needed for channels without a join button.
 # YouTube-Subcriber
 A program using VBScript and Batch that opens up a channel on YouTube, then automatically subscribes to it!
 # Usage
